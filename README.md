@@ -6,7 +6,7 @@ The Blood Donation App is a MERN stack-based web application designed to connect
 
 **🔧 Tech Stack**
 
-Frontend (React.js)
+**Frontend** (React.js)
 
 React.js (UI Framework)
 
@@ -18,7 +18,7 @@ CSS / Bootstrap (For styling)
 
 Axios (For API calls)
 
-Backend (Node.js + Express.js)
+**Backend** (Node.js + Express.js)
 
 Node.js (Runtime environment)
 
@@ -26,7 +26,7 @@ Express.js (Backend framework)
 
 Bcrypt.js (For password hashing, if needed)
 
-Database (MongoDB + Mongoose)
+**Database** (MongoDB + Mongoose)
 
 MongoDB (Database for storing donors and user data)
 
