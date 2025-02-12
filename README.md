@@ -111,6 +111,10 @@ GitHub/GitLab (For version control)
 
 Docker (If you want to containerize the app)
 
+**Dependencies file**
+
+The repo consists of Dependency file where the requirements of the project are present.
+
 **⚡ Future Enhancements (Optional)**
 
 ✨ Real-time chat using Socket.io (For direct donor-needy communication)✨ Google Maps API (For location-based donor search)✨ Twilio or Firebase Cloud Messaging (FCM) (For SMS/Push Notifications)
