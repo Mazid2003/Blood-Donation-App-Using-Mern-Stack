@@ -130,3 +130,5 @@ This project is open-source and available under the MIT License.
 **🤝 Contributing**
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+and fork the repo, submit PRs, and give your feedback! 🔥💡
