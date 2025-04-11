@@ -115,6 +115,18 @@ Docker (If you want to containerize the app)
 
 The repo consists of Dependency file where the requirements of the project are present.
 
+**Screenshot**
+
+**Interface**
+
+![image](https://github.com/user-attachments/assets/7c917fe2-99e4-4d56-bbd6-d7ba73bf25af)
+![image](https://github.com/user-attachments/assets/f71989af-6e9f-4f98-bbba-e94b5197ff0f)
+
+**Database Storing**
+
+![image](https://github.com/user-attachments/assets/350a321f-32c7-42a5-8c1c-3dd4ab00cd8a)
+
+
 **⚡ Future Enhancements (Optional)**
 
 ✨ Real-time chat using Socket.io (For direct donor-needy communication)
