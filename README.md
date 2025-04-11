@@ -120,7 +120,7 @@ The repo consists of Dependency file where the requirements of the project are p
 **Interface**
 
 ![image](https://github.com/user-attachments/assets/7c917fe2-99e4-4d56-bbd6-d7ba73bf25af)
-![image](https://github.com/user-attachments/assets/f71989af-6e9f-4f98-bbba-e94b5197ff0f)
+![bda1 1](https://github.com/user-attachments/assets/e62f3a7a-3ab0-4beb-8b11-c27f588bce43)
 
 **Database Storing**
 
