@@ -126,6 +126,10 @@ The repo consists of Dependency file where the requirements of the project are p
 
 ![image](https://github.com/user-attachments/assets/350a321f-32c7-42a5-8c1c-3dd4ab00cd8a)
 
+**Fetching the data by user**
+
+![bda app2](https://github.com/user-attachments/assets/d5986fa6-2812-4c5f-8ef9-3778c8ad44ea)
+
 
 **⚡ Future Enhancements (Optional)**
 
